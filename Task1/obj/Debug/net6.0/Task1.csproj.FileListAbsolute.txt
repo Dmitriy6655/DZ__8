@@ -16,3 +16,21 @@ C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#
 C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ__8\Task1\obj\Debug\net6.0\Task1.pdb
 C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ__8\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
 C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ__8\Task1\obj\Debug\net6.0\ref\Task1.dll
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\bin\Debug\net6.0\Task1.exe
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\bin\Debug\net6.0\Task1.dll
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\bin\Debug\net6.0\Task1.pdb
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\bin\Debug\net6.0\Common.dll
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\bin\Debug\net6.0\Common.pdb
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\obj\Debug\net6.0\Task1.csproj.CopyComplete
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\obj\Debug\net6.0\Task1.dll
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\obj\Debug\net6.0\Task1.pdb
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Task1\obj\Debug\net6.0\ref\Task1.dll

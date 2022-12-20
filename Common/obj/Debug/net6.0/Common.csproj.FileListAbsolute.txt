@@ -10,3 +10,15 @@ C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#
 C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ__8\Common\obj\Debug\net6.0\refint\Common.dll
 C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ__8\Common\obj\Debug\net6.0\Common.pdb
 C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ__8\Common\obj\Debug\net6.0\ref\Common.dll
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Common\bin\Debug\net6.0\Common.deps.json
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Common\bin\Debug\net6.0\Common.dll
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Common\bin\Debug\net6.0\Common.pdb
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Common\obj\Debug\net6.0\Common.dll
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Common\obj\Debug\net6.0\refint\Common.dll
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Common\obj\Debug\net6.0\Common.pdb
+D:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ__8\Common\obj\Debug\net6.0\ref\Common.dll
