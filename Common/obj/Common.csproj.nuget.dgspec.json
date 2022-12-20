@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ДИСК Д\\УЧЕБА GB 2022\\ДЗ\\2 четверть 2022\\DZ__8\\Common\\Common.csproj": {}
+    "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ__8\\Common\\Common.csproj": {}
   },
   "projects": {
-    "D:\\ДИСК Д\\УЧЕБА GB 2022\\ДЗ\\2 четверть 2022\\DZ__8\\Common\\Common.csproj": {
+    "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ__8\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ДИСК Д\\УЧЕБА GB 2022\\ДЗ\\2 четверть 2022\\DZ__8\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ__8\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\ДИСК Д\\УЧЕБА GB 2022\\ДЗ\\2 четверть 2022\\DZ__8\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\35TV.RUBICON-I\\.nuget\\packages\\",
-        "outputPath": "D:\\ДИСК Д\\УЧЕБА GB 2022\\ДЗ\\2 четверть 2022\\DZ__8\\Common\\obj\\",
+        "projectPath": "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ__8\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Тимофей\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ__8\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\35TV.RUBICON-I\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Тимофей\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
