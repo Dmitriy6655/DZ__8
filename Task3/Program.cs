@@ -31,11 +31,12 @@ Console.WriteLine();
 
 int[,] arrayResProductMatrix = MatrixProduct(arrayMatrix, arrayMatrix2);
 
+
 // печатаем результирующую матрицу
 Console.WriteLine("Результат умножения матриц равен:");
 PrintResultArrayInt(arrayResProductMatrix);
 
-//создаем МЕТОД умножение матриц
+//создаем МЕТОД умножения матриц
 int[,] MatrixProduct(int[,] arrayMatrix, int[,] arrayMatrix2)
 {
     int[,] arrayResult = new int[arrayMatrix.GetLength(0), arrayMatrix.GetLength(1)];

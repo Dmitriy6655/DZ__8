@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ__8\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ8_V2\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ__8\\Task1\\Task1.csproj",
+      "projectPath": "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ8_V2\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\Тимофей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ__8\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ8_V2\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Тимофей\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ__8\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ__8\\Common\\Common.csproj"
+            "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ8_V2\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\Тимофей\\Desktop\\TIMOFEY\\УЧЕБА GB\\ДЗ\\2 ЧЕТВЕРТЬ C#\\DZ8_V2\\Common\\Common.csproj"
             }
           }
         }

@@ -1,6 +1,5 @@
-﻿// Задача 56: Задайте прямоугольный двумерный массив. Напишите программу, 
-//которая будет находить строку с
-//  наименьшей суммой элементов.
+﻿// Задача 56: Задайте прямоугольный двумерный массив. Напишите программу,
+// которая будет находить строку с наименьшей суммой элементов.
 
 // Например, задан массив:
 
@@ -9,19 +8,8 @@
 // 8 4 2 4
 // 5 2 6 7
 
-// Программа считает сумму элементов в каждой строке и выдаёт
-// номер строки с наименьшей суммой элементов: 1 строка
-
-//**************************////**********************///*****************
-
-// Задача 52. Задайте двумерный массив из целых чисел. 
-// Найдите среднее арифметическое элементов в каждом столбце.
-
-// Например, задан массив:
-// 1 4 7 2
-// 5 9 2 3
-// 8 4 2 4
-// Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
+// Программа считает сумму элементов в каждой строке и выдаёт номер 
+// строки с наименьшей суммой элементов: 1 строка
 
 
 using static Common.Helper;
@@ -33,7 +21,7 @@ int column = int.Parse(Console.ReadLine());
 
 int[,] arrayInt = new int[line, column];
 
-//проверка чего больше в массиве (строк или столбцов)
+
 
 //обращаемся к методу RandomArrayInt для заполнения двумерного массива
 //случайными числами типа int
@@ -42,20 +30,16 @@ int[,] arrayResult = RandomArrayInt(arrayInt);
 //печатаем заполненный массив 
 PrintResultArrayInt(arrayResult);
 
-//создаем новый массив с рангом 1 и помещаем в него
-// то что вернул метод MinimumSumElementsArrayRow
+
 
 int[] arrayRes = MinimumSumElementsArrayRow(arrayResult, line);
 
-//вызываем метод печати одномерного массива
-PrintArray(arrayRes);
 
+//создаем МЕТОД который считает сумму каждой строки и 
+//помещает эти суммы в новый массив 1 ранга
 int[] MinimumSumElementsArrayRow(int[,] arrayResult, int lineArray)
 {
-
-    //string result = String.Empty;
     int arithmeticMean = 0;
-    //Console.Write($"тест {result}");
     int count = 0;
     var i = 0;
     int[] arraySumLine = new int[lineArray];
@@ -69,11 +53,6 @@ int[] MinimumSumElementsArrayRow(int[,] arrayResult, int lineArray)
 
             if (i == arrayResult.GetLength(1) - 1)
             {
-                //arithmeticMean = arithmeticMean / arrayResult.GetLength(0);
-                //arithmeticMean = Math.Round(arithmeticMean, 1);
-                // result = result + string.Format("  {0};", arithmeticMean);
-                //Console.WriteLine($"Result равно:{result}");
-                //Console.WriteLine($"Count равно:{count}");
                 arraySumLine[count] = arithmeticMean;
                 count++;
                 arithmeticMean = 0;
@@ -85,6 +64,9 @@ int[] MinimumSumElementsArrayRow(int[,] arrayResult, int lineArray)
     return arraySumLine;
 }
 
+//вызываем метод печати сумм в каждой строке
+PrintArray(arrayRes);
+
 void PrintArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
@@ -93,23 +75,22 @@ void PrintArray(int[] array)
     }
 }
 
+int minNumInArray = SearchMinSumInLine(arrayRes);
 
-//МЕТОД поиска минимальной суммы в строках
-int SearchMin(int[] arrayRes)
+//МЕТОД поиска минимальной суммы в строках(работаем с массивом 1 ранга.в 
+//в нем каждый послед.элемент это сумма строк двумерного массива)
+int SearchMinSumInLine(int[] arrayRes)
 {
     int minSumInLine = 0;
-
     int i = 1;
 
     minSumInLine = arrayRes[0];
 
     for (i = 0; i < arrayRes.Length; i++)
     {
-
         if (arrayRes[i] < minSumInLine)
         {
             minSumInLine = arrayRes[i];
-
         }
 
     }
@@ -117,10 +98,11 @@ int SearchMin(int[] arrayRes)
     return minSumInLine;
 }
 
-int minNumInArray = SearchMin(arrayRes);
+
 
 int resultIndex = SearchIndexMinNumInLineArray(minNumInArray, arrayRes);
 
+//МЕТОД поиска индекса с минимальной суммой
 void PrintIndex(int k)
 {
 

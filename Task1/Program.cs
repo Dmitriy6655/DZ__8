@@ -25,10 +25,44 @@ int[,] arrayResult = RandomArrayInt(arrayInt);
 //печатаем заполненный массив 
 PrintResultArrayInt(arrayResult);
 
-//создаем новую строку и помещаем в нее то что вернул метод ArithmeticMeanColumn
-//int[,] resultArithmeticMeanColumn = ArithmeticMeanColumn(arrayResult, line, column);
-
 int[,] array = SortingRows2DArray(arrayResult, line, column);
+
+int[,] SortingRows2DArray(int[,] arrayResult, int m, int n)
+    {
+        int[,] arrayLocal = new int[m, n];
+
+
+        //Console.Write($"тест {result}");
+        int count = 0;
+        //int i = 0;
+
+        while (count < arrayResult.GetLength(0))
+        {
+            for (int i = 0; i < arrayResult.GetLength(1); i++)
+            {
+                for (int j = 0; j < arrayResult.GetLength(1) - i - 1; j++)
+                {
+                    if (arrayResult[count, j] < arrayResult[count, j + 1])
+                    {
+                        int temp = arrayResult[count, j];
+                        arrayResult[count, j] = arrayResult[count, j + 1];
+                        arrayResult[count, j + 1] = temp;
+                    }
+
+                }
+
+                if (i == arrayResult.GetLength(1) - 1)
+                {
+                    count++;
+                }
+            }
+
+        }
+
+        return arrayResult;
+    }
+
+
 
 //печатаем отсортированный массив 
 PrintResultArrayInt(array);
